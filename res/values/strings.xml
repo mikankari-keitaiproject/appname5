@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appname5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nowloading">Now loading...</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title">神奈工技術習得デモ</string>
+    <string name="title2">傾きでプレイヤーを操る\nシューティングゲームです</string>
+    <string name="start">はじめる</string>
+    <string name="exit">おわる</string>
+    <string name="clear">プレイありがとうございます</string>
+    <string name="restart">はじめにもどる</string>
+    <string name="help">タップして攻撃ON!</string>
+    <string name="result_test">888 のエネミーを倒した！</string>
+    
+</resources>
